@@ -56,3 +56,5 @@ Route::get('/myprofile', 'SessionsController@myprofile')->name('myprofile');
 Route::post('/myprofile', ['uses' =>'SessionsController@selfedit']);
 
 
+//hello
+
